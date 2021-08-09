@@ -1,5 +1,5 @@
 package exDiagrama;
-//
+
 public class Principal {
     public static void main(String[] args) {
         Renavam renavam = new Renavam("000000000");
